@@ -65,7 +65,7 @@
 посредством краткой игровой сессии (1-2 минуты).
 12. Каждый шаг зафиксировать в скринкаст
 
-#### [Выполнение 2 лабораторной работы](https://drive.google.com/file/d/1iH8UkRlEQMjSfJqKqZx84c4-fVLgzqez/view?usp=sharing)
+#### [Выполнение 2 лабораторной работы](https://youtu.be/uwVJdTbo1_o)
 
 ## [Лабораторная работа 3](lab_3/README.md)
 
